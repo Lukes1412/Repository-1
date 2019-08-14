@@ -49,6 +49,4 @@ insert into class
 	(2,'小方','男','百度',222.11,100),
 	(3,'小红','女','微软',110.11,100);
 
-
-
 delete from class where name='小明'
